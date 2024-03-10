@@ -3,7 +3,7 @@
 </div>
 
 -------------------
-For about a year now, I've dedicated every free weekend to learning programming. While writing my first program I knew I wanted to become a software developer. After finishing it, I keep coming up with new projects which will not only help me to grow but also support my daily work. If you are curious what helped me (maybe it will help you too), I encourage you to look at my repos.
+While writing my first program I knew I wanted to become a software developer. After finishing it, I keep coming up with new projects which will not only help me to grow but also support my daily work. If you are curious what helped me (maybe it will help you too), I encourage you to look at my repos.
 
 * 🌍  I'm based in Cork, Ireland
 * ✉️  You can contact me at [pawel.pawelski.1990@gmail.com](mailto:pawel.pawelski.1990@gmail.com)
